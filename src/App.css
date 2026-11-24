@@ -182,3 +182,13 @@
     border-right-color: var(--border);
   }
 }
+
+
+#row {
+  display: flex;
+  flex-direction: row;
+  gap: 300px;
+  justify-content: center;
+  padding: 10px;
+  background-color: #222222;
+}
